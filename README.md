@@ -1,4 +1,6 @@
-reto1
+Reto1
 =====
 
-AplicaciÃ³n web para la carga y descarga de imagenes
+- AplicaciOn web para la carga y descarga de imagenes.
+
+- El día 22 de Julio de 2013 se realizaron todas las gestiones de permisos en el servidor sistemas.eafit.edu.co, donde se realizara el despliegue.
